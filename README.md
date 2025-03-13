@@ -1,2 +1,2 @@
 # Blacklisted-IPv4-Addresses
-Common DDoS Partipicants
+VPN Portal Abuse IPv4 Addresses.
