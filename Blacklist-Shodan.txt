@@ -50,11 +50,11 @@ buffet.census.shodan.io
 deer.census.shodan.io
 sparkle.census.shodan.io
 fish.census.shodan.io
-heimdal.scan6x.shodan.io (PTR only)
-gravy.scanf.shodan.io (PTR only)
-scanme.scanf.shodan.io (PTR only)
-frame.census.shodan.io (PTR only)
-collector.chrono.shodan.io (PTR only)
+heimdal.scan6x.shodan.io
+gravy.scanf.shodan.io
+scanme.scanf.shodan.io
+frame.census.shodan.io
+collector.chrono.shodan.io
 ships.data.shodan.io
 green.census.shodan.io
 blue.census.shodan.io
