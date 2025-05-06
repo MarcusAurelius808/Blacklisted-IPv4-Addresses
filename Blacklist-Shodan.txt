@@ -82,4 +82,3 @@ scanner02.project25499.com
 scanner03.project25499.com
 scanner04.project25499.com
 scanner05.project25499.com
-*.shodan.io
